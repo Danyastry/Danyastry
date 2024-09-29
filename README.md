@@ -1,16 +1,15 @@
-## Hi there 👋
+```diff
 
-<!--
-**Danyastry/Danyastry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class AboutMe {
+    val firstName = "Danylo"
+    val lastName = "Vinichenko"
+    val linkedin = "https://www.linkedin.com/in/DevDanyloVinichenko/"
+    val skills = listOf("Kotlin", "Android SDK", "Jetpack Compose", "Coroutines", "MVVM",
+     "Clean Architecture", "Koin", "Dagger2", "Room", "Retrofit", "Firebase", "Jira", "Confluence", "LiveData",
+     "Flow", "Navigation", "Git", "Design patterns", "Postman", "OkHttp")
+    val yearsOfExperience = 2.5f
+    val role = "Android Developer"
+}
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
