@@ -7,7 +7,8 @@ class AboutMe {
       val skills = listOf("Kotlin", "Android SDK", "Jetpack Compose", "Coroutines", "MVVM",
       "Clean Architecture", "Koin", "Dagger2", "Room", "Retrofit", "Firebase", "Jira", "Confluence", "LiveData",
       "Flow", "Navigation", "Git", "Design patterns", "Postman", "OkHttp")
-    val yearsOfExperience = 2.5f
++    val yearsOfExperience = 3
+-    val yearsOfExperience = 2.5f
     val role = "Android Developer"
 }
 
